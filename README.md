@@ -3,6 +3,7 @@
 The NEO* variant of Professor 高須知二 (Tomoji Takasu)'s PocketSDR replaces the micro-B connector with type-C, fixes the LDO routing, adds an 0603 100 Ohm resistor at the output of the RF power divider as per the datasheet, and finally provides the option of either using a pin header or a Littlefuse MICROSMD010 for antenna power delivery.
 
 Please note that due to the use of a type-C connector, the dimensions of the board are slightly larger than the original design.
+
 ---
 
 ## **Overview**
