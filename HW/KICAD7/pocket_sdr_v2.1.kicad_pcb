@@ -938,7 +938,7 @@
     (property "Sheetfile" "pocket_sdr_v2.1.kicad_sch")
     (property "Sheetname" "")
     (path "/10036ff8-786b-4a44-a006-db1eac32cab5")
-    (fp_text reference "J3" (at -2 -3.5) (layer "F.SilkS")
+    (fp_text reference "J3" (at -2 -3.5) (layer "F.SilkS") hide
         (effects (font (size 0.715264 0.715264) (thickness 0.097536)) (justify right bottom))
       (tstamp 2b1e419e-fb9f-4412-85b7-e0b722ab9170)
     )
